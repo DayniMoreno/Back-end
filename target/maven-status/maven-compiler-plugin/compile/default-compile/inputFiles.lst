@@ -8,6 +8,8 @@ C:\Users\dalex\OneDrive\Documentos\Programación\Proyecto final\Backend\pf\src\ma
 C:\Users\dalex\OneDrive\Documentos\Programación\Proyecto final\Backend\pf\src\main\java\com\portfolio\pf\Security\jwt\JwtTokenFilter.java
 C:\Users\dalex\OneDrive\Documentos\Programación\Proyecto final\Backend\pf\src\main\java\com\portfolio\pf\Security\MainSecurity.java
 C:\Users\dalex\OneDrive\Documentos\Programación\Proyecto final\Backend\pf\src\main\java\com\portfolio\pf\Security\Service\UsuarioService.java
+C:\Users\dalex\OneDrive\Documentos\Programación\Proyecto final\Backend\pf\src\main\java\com\portfolio\pf\Repository\RSkills.java
+C:\Users\dalex\OneDrive\Documentos\Programación\Proyecto final\Backend\pf\src\main\java\com\portfolio\pf\Controller\CSkills.java
 C:\Users\dalex\OneDrive\Documentos\Programación\Proyecto final\Backend\pf\src\main\java\com\portfolio\pf\Entity\Experiencia.java
 C:\Users\dalex\OneDrive\Documentos\Programación\Proyecto final\Backend\pf\src\main\java\com\portfolio\pf\Interface\IPersonaService.java
 C:\Users\dalex\OneDrive\Documentos\Programación\Proyecto final\Backend\pf\src\main\java\com\portfolio\pf\Security\Service\RolService.java
@@ -16,6 +18,7 @@ C:\Users\dalex\OneDrive\Documentos\Programación\Proyecto final\Backend\pf\src\ma
 C:\Users\dalex\OneDrive\Documentos\Programación\Proyecto final\Backend\pf\src\main\java\com\portfolio\pf\Repository\IPersonaRepository.java
 C:\Users\dalex\OneDrive\Documentos\Programación\Proyecto final\Backend\pf\src\main\java\com\portfolio\pf\Security\Entity\UsuarioPrincipal.java
 C:\Users\dalex\OneDrive\Documentos\Programación\Proyecto final\Backend\pf\src\main\java\com\portfolio\pf\Repository\RExperiencia.java
+C:\Users\dalex\OneDrive\Documentos\Programación\Proyecto final\Backend\pf\src\main\java\com\portfolio\pf\Service\SSkills.java
 C:\Users\dalex\OneDrive\Documentos\Programación\Proyecto final\Backend\pf\src\main\java\com\portfolio\pf\Service\ImpPersonaService.java
 C:\Users\dalex\OneDrive\Documentos\Programación\Proyecto final\Backend\pf\src\main\java\com\portfolio\pf\Security\Repository\iUsuarioRepository.java
 C:\Users\dalex\OneDrive\Documentos\Programación\Proyecto final\Backend\pf\src\main\java\com\portfolio\pf\Service\SExperiencia.java
@@ -25,6 +28,7 @@ C:\Users\dalex\OneDrive\Documentos\Programación\Proyecto final\Backend\pf\src\ma
 C:\Users\dalex\OneDrive\Documentos\Programación\Proyecto final\Backend\pf\src\main\java\com\portfolio\pf\Security\Service\UserDetailsImpl.java
 C:\Users\dalex\OneDrive\Documentos\Programación\Proyecto final\Backend\pf\src\main\java\com\portfolio\pf\Dto\dtoExperiencia.java
 C:\Users\dalex\OneDrive\Documentos\Programación\Proyecto final\Backend\pf\src\main\java\com\portfolio\pf\Entity\Educacion.java
+C:\Users\dalex\OneDrive\Documentos\Programación\Proyecto final\Backend\pf\src\main\java\com\portfolio\pf\Dto\dtoSkills.java
 C:\Users\dalex\OneDrive\Documentos\Programación\Proyecto final\Backend\pf\src\main\java\com\portfolio\pf\Controller\PersonaController.java
 C:\Users\dalex\OneDrive\Documentos\Programación\Proyecto final\Backend\pf\src\main\java\com\portfolio\pf\Dto\dtoEducacion.java
 C:\Users\dalex\OneDrive\Documentos\Programación\Proyecto final\Backend\pf\src\main\java\com\portfolio\pf\Entity\Persona.java
@@ -32,3 +36,4 @@ C:\Users\dalex\OneDrive\Documentos\Programación\Proyecto final\Backend\pf\src\ma
 C:\Users\dalex\OneDrive\Documentos\Programación\Proyecto final\Backend\pf\src\main\java\com\portfolio\pf\Security\Entity\Rol.java
 C:\Users\dalex\OneDrive\Documentos\Programación\Proyecto final\Backend\pf\src\main\java\com\portfolio\pf\Security\jwt\JwtProvider.java
 C:\Users\dalex\OneDrive\Documentos\Programación\Proyecto final\Backend\pf\src\main\java\com\portfolio\pf\Controller\CEducacion.java
+C:\Users\dalex\OneDrive\Documentos\Programación\Proyecto final\Backend\pf\src\main\java\com\portfolio\pf\Entity\Skills.java

@@ -3,6 +3,7 @@ com\portfolio\pf\Security\Dto\LoginUsuario.class
 com\portfolio\pf\Security\Service\RolService.class
 com\portfolio\pf\Security\Service\UserDetailsImpl.class
 com\portfolio\pf\Security\jwt\JwtTokenFilter.class
+com\portfolio\pf\Dto\dtoSkills.class
 com\portfolio\pf\Security\Service\UsuarioService.class
 com\portfolio\pf\Security\jwt\JwtProvider.class
 com\portfolio\pf\Service\ImpPersonaService.class
@@ -20,10 +21,14 @@ com\portfolio\pf\Controller\CExperiencia.class
 com\portfolio\pf\PfApplication.class
 com\portfolio\pf\Entity\Educacion.class
 com\portfolio\pf\Security\Repository\iRolRepository.class
+com\portfolio\pf\Service\SSkills.class
 com\portfolio\pf\Controller\CEducacion.class
+com\portfolio\pf\Controller\CSkills.class
+com\portfolio\pf\Repository\RSkills.class
 com\portfolio\pf\Security\MainSecurity.class
 com\portfolio\pf\Dto\dtoExperiencia.class
 com\portfolio\pf\Repository\RExperiencia.class
+com\portfolio\pf\Entity\Skills.class
 com\portfolio\pf\Entity\Persona.class
 com\portfolio\pf\Security\Controller\Mensaje.class
 com\portfolio\pf\Entity\Experiencia.class
